@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     subsurface (0.1.0)
-      nokogiri
+      nokogiri (~> 1.6, >= 1.6.8)
 
 GEM
   remote: https://rubygems.org/
