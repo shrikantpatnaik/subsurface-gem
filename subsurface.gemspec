@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Convert SSRF to Ruby models'
   spec.description   = 'Easy way to use Subsurface exports in ruby'
-  spec.homepage      = 'https://github.com/shrikantpatnaik/subsurface'
+  spec.homepage      = 'https://github.com/shrikantpatnaik/subsurface-gem'
   spec.license       = 'MIT'
 
   # Specify which files should be added to the gem when it is released.
